@@ -1,0 +1,56 @@
+{
+  "id": "original-translation",
+  "title": "原创翻译练习",
+  "type": "translation",
+  "typeLabel": "翻译",
+  "description": "仿四级段落翻译的高频句式，逐句练习中译英。提交后对照参考译文自评。",
+  "suggestMinutes": 30,
+  "sections": [
+    {
+      "id": "translation",
+      "name": "中译英（5 句）",
+      "questions": [
+        {
+          "id": "t1",
+          "no": 1,
+          "type": "text",
+          "stem": "随着互联网的普及，越来越多的人选择在网上购物。",
+          "answer": "With the popularity of the Internet, more and more people choose to shop online.",
+          "analysis": "“随着……的普及”常用 with the popularity of；“越来越多的人”可用 more and more people。注意时态用一般现在时。"
+        },
+        {
+          "id": "t2",
+          "no": 2,
+          "type": "text",
+          "stem": "我们应该保护环境，因为它是我们共同的家园。",
+          "answer": "We should protect the environment because it is our common home.",
+          "analysis": "两句之间用 because 连接表示原因；“共同的家园”译为 our common home。"
+        },
+        {
+          "id": "t3",
+          "no": 3,
+          "type": "text",
+          "stem": "学习英语不仅需要记忆单词，还需要大量的练习。",
+          "answer": "Learning English requires not only memorizing words but also a lot of practice.",
+          "analysis": "“不仅……还……”用 not only ... but also ...；“记忆单词”可用 memorizing words。"
+        },
+        {
+          "id": "t4",
+          "no": 4,
+          "type": "text",
+          "stem": "近年来，人工智能技术发展迅速，已经改变了我们的生活方式。",
+          "answer": "In recent years, artificial intelligence technology has developed rapidly and has changed the way we live.",
+          "analysis": "“近年来”用 in recent years，搭配现在完成时；“生活方式”译为 the way we live 或 our lifestyle。"
+        },
+        {
+          "id": "t5",
+          "no": 5,
+          "type": "text",
+          "stem": "只有通过不断的努力，我们才能实现自己的目标。",
+          "answer": "Only through constant effort can we achieve our goals.",
+          "analysis": "“只有……才……”可用 only 置于句首的倒装结构：Only through ... can we ...；“实现目标”译为 achieve our goals。"
+        }
+      ]
+    }
+  ]
+}

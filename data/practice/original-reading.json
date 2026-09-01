@@ -1,0 +1,64 @@
+{
+  "id": "original-reading",
+  "title": "原创阅读理解",
+  "type": "reading",
+  "typeLabel": "阅读",
+  "description": "仿四级阅读题型：选词填空、信息匹配、仔细阅读。客观题自动判分并附中文解析。",
+  "suggestMinutes": 40,
+  "sections": [
+    {
+      "id": "banked-cloze",
+      "name": "选词填空",
+      "passage": "A growing number of studies suggest that reading fiction can [[1]] improve a person's ability to understand others. Researchers believe that when we follow a character's thoughts and feelings, we practice the same mental skills we use in real [[2]]. One study asked participants to read short stories and then take tests measuring social [[3]]. Those who read fiction scored higher than those who read nonfiction or nothing at all. The effect appears to be strongest for readers who become emotionally [[4]] in the story. However, scientists warn that reading is not a quick [[5]] for social skills. Instead, it seems to provide gentle, long-term practice. The findings may have practical value for schools and [[6]] that design training programs. Teachers could use fiction to help students develop [[7]] for others. Still, more research is needed to [[8]] the exact link between stories and social ability. Future studies should include larger and more [[9]] groups of participants. For now, the message is simple: a good novel may help you [[10]] the people around you a little better.",
+      "wordBank": ["significantly", "situations", "understanding", "involved", "replacement", "organizations", "empathy", "confirm", "diverse", "understand", "rapidly", "avoid", "imagine", "ignore", "careful"],
+      "questions": [
+        { "id": "r1", "no": 1, "type": "blank", "stem": "第 1 空应填入哪个单词？", "answer": "significantly", "analysis": "此处需要一个副词修饰 improve，且表示“显著地”，故选 significantly（rapidly 表示“快速地”，不如 significantly 贴切）。" },
+        { "id": "r2", "no": 2, "type": "blank", "stem": "第 2 空应填入哪个单词？", "answer": "situations", "analysis": "in real situations 意为“在真实情境中”，符合句意。理解他人是我们在真实生活场景中运用的技能。" },
+        { "id": "r3", "no": 3, "type": "blank", "stem": "第 3 空应填入哪个单词？", "answer": "understanding", "analysis": "social understanding 指“社会理解能力”，与测试测量人们对他人心思的理解相呼应。" },
+        { "id": "r4", "no": 4, "type": "blank", "stem": "第 4 空应填入哪个单词？", "answer": "involved", "analysis": "become emotionally involved in 意为“情感上投入其中”，符合文意。" },
+        { "id": "r5", "no": 5, "type": "blank", "stem": "第 5 空应填入哪个单词？", "answer": "replacement", "analysis": "a quick replacement for 意为“……的快速替代品”，表示阅读不能替代社交技能。" },
+        { "id": "r6", "no": 6, "type": "blank", "stem": "第 6 空应填入哪个单词？", "answer": "organizations", "analysis": "schools and organizations 并列，指设计培训项目的学校和机构。" },
+        { "id": "r7", "no": 7, "type": "blank", "stem": "第 7 空应填入哪个单词？", "answer": "empathy", "analysis": "develop empathy for others 意为“培养对他人的同理心”，与小说训练理解他人相关。" },
+        { "id": "r8", "no": 8, "type": "blank", "stem": "第 8 空应填入哪个单词？", "answer": "confirm", "analysis": "confirm the exact link 意为“确认确切的联系”，符合还需更多研究来确认的说法。" },
+        { "id": "r9", "no": 9, "type": "blank", "stem": "第 9 空应填入哪个单词？", "answer": "diverse", "analysis": "more diverse groups 意为“更多样化的受试群体”，符合研究样本应更多元的要求。" },
+        { "id": "r10", "no": 10, "type": "blank", "stem": "第 10 空应填入哪个单词？", "answer": "understand", "analysis": "help you understand the people around you，即帮助你更好地理解身边的人。" }
+      ]
+    },
+    {
+      "id": "matching",
+      "name": "信息匹配",
+      "passage": "[A] Start early. Students who begin preparing weeks in advance tend to remember more than those who cram the night before. Early preparation gives the brain time to move new information into long-term memory.\n\n[B] Use active recall. Simply rereading notes gives a false sense of confidence. Testing yourself forces your brain to retrieve information, which strengthens the memory.\n\n[C] Explain it to someone else. When you teach a topic to a friend, you quickly discover what you do and do not understand.\n\n[D] Practice under real conditions. Doing past papers with a timer helps you get used to the pressure of an exam and improves time management.\n\n[E] Take regular breaks. Short rests between study sessions keep your mind fresh and help prevent burnout.",
+      "questions": [
+        { "id": "r11", "no": 11, "type": "choice", "stem": "通过给别人讲解来发现自己的薄弱点。", "options": ["A 段", "B 段", "C 段", "D 段", "E 段"], "answer": "C", "analysis": "C 段讲“Explain it to someone else”，给别人讲解能发现自己的知识漏洞。" },
+        { "id": "r12", "no": 12, "type": "choice", "stem": "尽早开始比考前突击更有效。", "options": ["A 段", "B 段", "C 段", "D 段", "E 段"], "answer": "A", "analysis": "A 段讲“Start early”，尽早开始好过 cram the night before。" },
+        { "id": "r13", "no": 13, "type": "choice", "stem": "用计时做真题来适应考试压力。", "options": ["A 段", "B 段", "C 段", "D 段", "E 段"], "answer": "D", "analysis": "D 段讲“Practice under real conditions”，计时做真题能适应考试压力。" },
+        { "id": "r14", "no": 14, "type": "choice", "stem": "自我测试比反复阅读笔记更能巩固记忆。", "options": ["A 段", "B 段", "C 段", "D 段", "E 段"], "answer": "B", "analysis": "B 段讲“Use active recall”，自我测试比 rereading notes 更能强化记忆。" },
+        { "id": "r15", "no": 15, "type": "choice", "stem": "在学习之间安排短暂休息。", "options": ["A 段", "B 段", "C 段", "D 段", "E 段"], "answer": "E", "analysis": "E 段讲“Take regular breaks”，学习之间安排短暂休息。" }
+      ]
+    },
+    {
+      "id": "reading-1",
+      "name": "仔细阅读（一）",
+      "passage": "Online learning has grown rapidly in recent years, but it is not right for everyone. A study of college students found that those who learned best in a traditional classroom often struggled with fully online courses. The main reason was a lack of self-discipline. Without fixed class times, some students put off their work until the last minute. Successful online learners tend to set a regular study schedule and treat it as seriously as a real class. They also ask for help early instead of waiting until problems become serious. In other words, the technology matters less than the student's habits.",
+      "questions": [
+        { "id": "r16", "no": 16, "type": "choice", "stem": "这篇文章的主旨是什么？", "options": ["在线学习的成败更多取决于学习习惯而非技术", "传统课堂即将被在线课程取代", "在线课程只适合成绩优秀的学生", "所有学生都应当转向在线学习"], "answer": "A", "analysis": "结尾总结“the technology matters less than the student's habits”，点明主旨。" },
+        { "id": "r17", "no": 17, "type": "choice", "stem": "为什么一些习惯传统课堂的学生在线上表现不佳？", "options": ["缺乏自制力", "网速太慢", "课程内容太难", "老师不够负责"], "answer": "A", "analysis": "原文明确说“The main reason was a lack of self-discipline”。" },
+        { "id": "r18", "no": 18, "type": "choice", "stem": "成功的在线学习者通常怎么做？", "options": ["制定固定的学习时间表", "只在考前突击", "尽量少提问", "完全依赖录播视频"], "answer": "A", "analysis": "原文说成功者会“set a regular study schedule”。" },
+        { "id": "r19", "no": 19, "type": "choice", "stem": "文章对“求助”提出了什么建议？", "options": ["尽早求助", "从不求助", "只在考试后求助", "遇到困难就放弃"], "answer": "A", "analysis": "原文说“ask for help early instead of waiting until problems become serious”。" },
+        { "id": "r20", "no": 20, "type": "choice", "stem": "“技术不如习惯重要”这句话暗示了什么？", "options": ["习惯决定学习成效", "技术完全没有用处", "在线课程质量都很低", "学生不需要老师"], "answer": "A", "analysis": "这句话强调习惯比技术更能决定在线学习的成败。" }
+      ]
+    },
+    {
+      "id": "reading-2",
+      "name": "仔细阅读（二）",
+      "passage": "Scientists have long known that sleep plays an important role in memory. New research shows that the timing of sleep also matters. Students who study in the evening and then sleep tend to remember more than those who study in the morning and stay awake all day. During deep sleep, the brain replays important experiences and moves them into long-term storage. However, staying up late to study is not helpful, because tired brains learn poorly. The best advice is to study, then get a full night's sleep, and review again the next morning.",
+      "questions": [
+        { "id": "r21", "no": 21, "type": "choice", "stem": "新研究发现了睡眠的哪一方面很重要？", "options": ["睡眠的时间点", "睡眠的总时长", "睡眠的地点", "睡眠的姿势"], "answer": "A", "analysis": "原文说“the timing of sleep also matters”，即睡眠的时间点也很重要。" },
+        { "id": "r22", "no": 22, "type": "choice", "stem": "深睡眠期间大脑会做什么？", "options": ["回放重要经历并转入长期记忆", "彻底停止工作", "删除所有短期记忆", "只处理听觉信息"], "answer": "A", "analysis": "原文说大脑“replays important experiences and moves them into long-term storage”。" },
+        { "id": "r23", "no": 23, "type": "choice", "stem": "为什么熬夜学习没有帮助？", "options": ["疲劳的大脑学习效率低", "晚上网课更贵", "老师不批改夜间作业", "书本在夜间无法阅读"], "answer": "A", "analysis": "原文说“tired brains learn poorly”，疲劳的大脑学习效果差。" },
+        { "id": "r24", "no": 24, "type": "choice", "stem": "文章给出的最佳建议是什么？", "options": ["学习后睡整晚，第二天早上再复习", "整夜不睡直到背完", "只在早上学习", "学习时听音乐助眠"], "answer": "A", "analysis": "结尾建议“study, then get a full night's sleep, and review again the next morning”。" },
+        { "id": "r25", "no": 25, "type": "choice", "stem": "这篇文章最适合的读者是？", "options": ["希望提高记忆效率的学生", "研究睡眠药物的医生", "只想了解梦境的人", "经营书店的老板"], "answer": "A", "analysis": "全文围绕睡眠与学习记忆的关系，面向希望提升学习记忆效率的学生。" }
+      ]
+    }
+  ]
+}

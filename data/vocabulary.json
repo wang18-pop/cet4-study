@@ -1,0 +1,1612 @@
+{
+  "words": [
+    {
+      "word": "ability",
+      "phonetic": "/əˈbɪləti/",
+      "pos": "n.",
+      "meaning": "能力；才能",
+      "example": "She has the ability to learn quickly.",
+      "exampleCn": "她有能力学得很快。"
+    },
+    {
+      "word": "abroad",
+      "phonetic": "/əˈbrɔːd/",
+      "pos": "adv.",
+      "meaning": "在国外；到国外",
+      "example": "He plans to study abroad next year.",
+      "exampleCn": "他计划明年出国留学。"
+    },
+    {
+      "word": "absent",
+      "phonetic": "/ˈæbsənt/",
+      "pos": "adj.",
+      "meaning": "缺席的；不在的",
+      "example": "Two students were absent from class.",
+      "exampleCn": "两名学生上课缺席。"
+    },
+    {
+      "word": "absorb",
+      "phonetic": "/əbˈzɔːb/",
+      "pos": "v.",
+      "meaning": "吸收；使专心",
+      "example": "Plants absorb water through their roots.",
+      "exampleCn": "植物通过根部吸收水分。"
+    },
+    {
+      "word": "academic",
+      "phonetic": "/ˌækəˈdemɪk/",
+      "pos": "adj.",
+      "meaning": "学术的；学院的",
+      "example": "Her academic performance is excellent.",
+      "exampleCn": "她的学业成绩很优秀。"
+    },
+    {
+      "word": "accept",
+      "phonetic": "/əkˈsept/",
+      "pos": "v.",
+      "meaning": "接受；同意",
+      "example": "Please accept my apology.",
+      "exampleCn": "请接受我的道歉。"
+    },
+    {
+      "word": "access",
+      "phonetic": "/ˈækses/",
+      "pos": "n./v.",
+      "meaning": "通道；获取",
+      "example": "Students have access to the library.",
+      "exampleCn": "学生可以使用图书馆。"
+    },
+    {
+      "word": "accident",
+      "phonetic": "/ˈæksɪdənt/",
+      "pos": "n.",
+      "meaning": "事故；意外",
+      "example": "He had a car accident yesterday.",
+      "exampleCn": "他昨天出了车祸。"
+    },
+    {
+      "word": "accompany",
+      "phonetic": "/əˈkʌmpəni/",
+      "pos": "v.",
+      "meaning": "陪伴；伴随",
+      "example": "I will accompany you to the station.",
+      "exampleCn": "我会陪你去车站。"
+    },
+    {
+      "word": "achieve",
+      "phonetic": "/əˈtʃiːv/",
+      "pos": "v.",
+      "meaning": "实现；达到",
+      "example": "You can achieve your goal with effort.",
+      "exampleCn": "通过努力，你可以实现自己的目标。"
+    },
+    {
+      "word": "acquire",
+      "phonetic": "/əˈkwaɪə/",
+      "pos": "v.",
+      "meaning": "获得；习得",
+      "example": "Children acquire language naturally.",
+      "exampleCn": "儿童会自然而然地习得语言。"
+    },
+    {
+      "word": "adapt",
+      "phonetic": "/əˈdæpt/",
+      "pos": "v.",
+      "meaning": "适应；改编",
+      "example": "It takes time to adapt to a new culture.",
+      "exampleCn": "适应新文化需要时间。"
+    },
+    {
+      "word": "adequate",
+      "phonetic": "/ˈædɪkwət/",
+      "pos": "adj.",
+      "meaning": "足够的；适当的",
+      "example": "Make sure you get adequate sleep.",
+      "exampleCn": "请确保你有充足的睡眠。"
+    },
+    {
+      "word": "adjust",
+      "phonetic": "/əˈdʒʌst/",
+      "pos": "v.",
+      "meaning": "调整；适应",
+      "example": "I need to adjust my schedule.",
+      "exampleCn": "我需要调整一下我的日程安排。"
+    },
+    {
+      "word": "admire",
+      "phonetic": "/ədˈmaɪə/",
+      "pos": "v.",
+      "meaning": "钦佩；欣赏",
+      "example": "I admire her courage.",
+      "exampleCn": "我钦佩她的勇气。"
+    },
+    {
+      "word": "admit",
+      "phonetic": "/ədˈmɪt/",
+      "pos": "v.",
+      "meaning": "承认；准许进入",
+      "example": "He admitted his mistake.",
+      "exampleCn": "他承认了自己的错误。"
+    },
+    {
+      "word": "adopt",
+      "phonetic": "/əˈdɒpt/",
+      "pos": "v.",
+      "meaning": "采用；收养",
+      "example": "We adopted a new method.",
+      "exampleCn": "我们采用了一种新方法。"
+    },
+    {
+      "word": "advance",
+      "phonetic": "/ədˈvɑːns/",
+      "pos": "n./v.",
+      "meaning": "前进；进展",
+      "example": "Technology continues to advance.",
+      "exampleCn": "科技在不断地进步。"
+    },
+    {
+      "word": "advantage",
+      "phonetic": "/ədˈvɑːntɪdʒ/",
+      "pos": "n.",
+      "meaning": "优势；好处",
+      "example": "Speaking English is a great advantage.",
+      "exampleCn": "会说英语是一个很大的优势。"
+    },
+    {
+      "word": "advertise",
+      "phonetic": "/ˈædvətaɪz/",
+      "pos": "v.",
+      "meaning": "做广告；宣传",
+      "example": "They advertise the product online.",
+      "exampleCn": "他们在网上为这款产品做广告。"
+    },
+    {
+      "word": "affect",
+      "phonetic": "/əˈfekt/",
+      "pos": "v.",
+      "meaning": "影响；感动",
+      "example": "The weather can affect our mood.",
+      "exampleCn": "天气会影响我们的情绪。"
+    },
+    {
+      "word": "afford",
+      "phonetic": "/əˈfɔːd/",
+      "pos": "v.",
+      "meaning": "负担得起",
+      "example": "I cannot afford a new phone.",
+      "exampleCn": "我买不起新手机。"
+    },
+    {
+      "word": "agency",
+      "phonetic": "/ˈeɪdʒənsi/",
+      "pos": "n.",
+      "meaning": "机构；代理处",
+      "example": "She works for a travel agency.",
+      "exampleCn": "她在一家旅行社工作。"
+    },
+    {
+      "word": "agreement",
+      "phonetic": "/əˈɡriːmənt/",
+      "pos": "n.",
+      "meaning": "协议；一致",
+      "example": "They reached an agreement at last.",
+      "exampleCn": "他们最终达成了一致。"
+    },
+    {
+      "word": "aim",
+      "phonetic": "/eɪm/",
+      "pos": "n./v.",
+      "meaning": "目标；瞄准",
+      "example": "Our aim is to improve reading.",
+      "exampleCn": "我们的目标是提高阅读水平。"
+    },
+    {
+      "word": "allow",
+      "phonetic": "/əˈlaʊ/",
+      "pos": "v.",
+      "meaning": "允许",
+      "example": "Please allow me to explain.",
+      "exampleCn": "请允许我解释一下。"
+    },
+    {
+      "word": "alter",
+      "phonetic": "/ˈɔːltə/",
+      "pos": "v.",
+      "meaning": "改变；修改",
+      "example": "The plan may be altered later.",
+      "exampleCn": "这个计划以后可能会被修改。"
+    },
+    {
+      "word": "amount",
+      "phonetic": "/əˈmaʊnt/",
+      "pos": "n.",
+      "meaning": "数量；总额",
+      "example": "A large amount of water was used.",
+      "exampleCn": "当时使用了大量的水。"
+    },
+    {
+      "word": "analyze",
+      "phonetic": "/ˈænəlaɪz/",
+      "pos": "v.",
+      "meaning": "分析",
+      "example": "We need to analyze the data.",
+      "exampleCn": "我们需要分析这些数据。"
+    },
+    {
+      "word": "ancient",
+      "phonetic": "/ˈeɪnʃənt/",
+      "pos": "adj.",
+      "meaning": "古代的；古老的",
+      "example": "We visited an ancient temple.",
+      "exampleCn": "我们参观了一座古庙。"
+    },
+    {
+      "word": "announce",
+      "phonetic": "/əˈnaʊns/",
+      "pos": "v.",
+      "meaning": "宣布；宣告",
+      "example": "The school announced the results.",
+      "exampleCn": "学校公布了成绩。"
+    },
+    {
+      "word": "anxious",
+      "phonetic": "/ˈæŋkʃəs/",
+      "pos": "adj.",
+      "meaning": "焦虑的；担心的",
+      "example": "She felt anxious before the exam.",
+      "exampleCn": "考试前她感到很焦虑。"
+    },
+    {
+      "word": "apologize",
+      "phonetic": "/əˈpɒlədʒaɪz/",
+      "pos": "v.",
+      "meaning": "道歉",
+      "example": "He apologized for being late.",
+      "exampleCn": "他为迟到道了歉。"
+    },
+    {
+      "word": "apparent",
+      "phonetic": "/əˈpærənt/",
+      "pos": "adj.",
+      "meaning": "明显的；表面的",
+      "example": "It was apparent that he was tired.",
+      "exampleCn": "很明显，他累了。"
+    },
+    {
+      "word": "appeal",
+      "phonetic": "/əˈpiːl/",
+      "pos": "v./n.",
+      "meaning": "吸引；呼吁",
+      "example": "The idea appeals to young people.",
+      "exampleCn": "这个想法很吸引年轻人。"
+    },
+    {
+      "word": "apply",
+      "phonetic": "/əˈplaɪ/",
+      "pos": "v.",
+      "meaning": "申请；应用",
+      "example": "You should apply for the job early.",
+      "exampleCn": "你应该早点申请这份工作。"
+    },
+    {
+      "word": "appreciate",
+      "phonetic": "/əˈpriːʃieɪt/",
+      "pos": "v.",
+      "meaning": "感激；欣赏",
+      "example": "I really appreciate your help.",
+      "exampleCn": "我非常感激你的帮助。"
+    },
+    {
+      "word": "approach",
+      "phonetic": "/əˈprəʊtʃ/",
+      "pos": "n./v.",
+      "meaning": "方法；接近",
+      "example": "We need a new approach to the problem.",
+      "exampleCn": "我们需要用新的方法来解决这个问题。"
+    },
+    {
+      "word": "appropriate",
+      "phonetic": "/əˈprəʊpriət/",
+      "pos": "adj.",
+      "meaning": "合适的；恰当的",
+      "example": "Wear appropriate clothes for the interview.",
+      "exampleCn": "面试时要穿合适的衣服。"
+    },
+    {
+      "word": "approve",
+      "phonetic": "/əˈpruːv/",
+      "pos": "v.",
+      "meaning": "赞成；批准",
+      "example": "The manager approved the plan.",
+      "exampleCn": "经理批准了这个计划。"
+    },
+    {
+      "word": "argue",
+      "phonetic": "/ˈɑːɡjuː/",
+      "pos": "v.",
+      "meaning": "争论；主张",
+      "example": "They argued about the best way.",
+      "exampleCn": "他们争论哪种方法最好。"
+    },
+    {
+      "word": "arrange",
+      "phonetic": "/əˈreɪndʒ/",
+      "pos": "v.",
+      "meaning": "安排；整理",
+      "example": "I will arrange a meeting for us.",
+      "exampleCn": "我会为我们安排一次会议。"
+    },
+    {
+      "word": "article",
+      "phonetic": "/ˈɑːtɪkl/",
+      "pos": "n.",
+      "meaning": "文章；物品",
+      "example": "She wrote an article about health.",
+      "exampleCn": "她写了一篇关于健康的文章。"
+    },
+    {
+      "word": "aspect",
+      "phonetic": "/ˈæspekt/",
+      "pos": "n.",
+      "meaning": "方面",
+      "example": "This is an important aspect of study.",
+      "exampleCn": "这是学习中一个重要的方面。"
+    },
+    {
+      "word": "assess",
+      "phonetic": "/əˈses/",
+      "pos": "v.",
+      "meaning": "评估；评价",
+      "example": "Teachers assess students each term.",
+      "exampleCn": "老师每学期都会评估学生。"
+    },
+    {
+      "word": "assist",
+      "phonetic": "/əˈsɪst/",
+      "pos": "v.",
+      "meaning": "帮助；协助",
+      "example": "The staff assisted the guests.",
+      "exampleCn": "工作人员协助了客人。"
+    },
+    {
+      "word": "assume",
+      "phonetic": "/əˈsjuːm/",
+      "pos": "v.",
+      "meaning": "假定；承担",
+      "example": "Do not assume the answer too quickly.",
+      "exampleCn": "不要这么快就下结论。"
+    },
+    {
+      "word": "attach",
+      "phonetic": "/əˈtætʃ/",
+      "pos": "v.",
+      "meaning": "附上；重视",
+      "example": "Please attach the file to the email.",
+      "exampleCn": "请把文件附在邮件里。"
+    },
+    {
+      "word": "attempt",
+      "phonetic": "/əˈtempt/",
+      "pos": "n./v.",
+      "meaning": "尝试；企图",
+      "example": "He made an attempt to explain.",
+      "exampleCn": "他试图做出解释。"
+    },
+    {
+      "word": "attitude",
+      "phonetic": "/ˈætɪtjuːd/",
+      "pos": "n.",
+      "meaning": "态度",
+      "example": "A positive attitude helps a lot.",
+      "exampleCn": "积极的态度非常有帮助。"
+    },
+    {
+      "word": "attract",
+      "phonetic": "/əˈtrækt/",
+      "pos": "v.",
+      "meaning": "吸引",
+      "example": "The city attracts many tourists.",
+      "exampleCn": "这座城市吸引了许多游客。"
+    },
+    {
+      "word": "available",
+      "phonetic": "/əˈveɪləbl/",
+      "pos": "adj.",
+      "meaning": "可获得的；有空的",
+      "example": "Tickets are still available online.",
+      "exampleCn": "网上仍然可以买到票。"
+    },
+    {
+      "word": "average",
+      "phonetic": "/ˈævərɪdʒ/",
+      "pos": "n./adj.",
+      "meaning": "平均；普通的",
+      "example": "The average score was 70.",
+      "exampleCn": "平均分是 70 分。"
+    },
+    {
+      "word": "avoid",
+      "phonetic": "/əˈvɔɪd/",
+      "pos": "v.",
+      "meaning": "避免",
+      "example": "Try to avoid making the same mistake.",
+      "exampleCn": "尽量避免再犯同样的错误。"
+    },
+    {
+      "word": "aware",
+      "phonetic": "/əˈweə/",
+      "pos": "adj.",
+      "meaning": "意识到的",
+      "example": "We should be aware of the risks.",
+      "exampleCn": "我们应该意识到这些风险。"
+    },
+    {
+      "word": "balance",
+      "phonetic": "/ˈbæləns/",
+      "pos": "n./v.",
+      "meaning": "平衡",
+      "example": "Keep a balance between work and rest.",
+      "exampleCn": "要在工作和休息之间保持平衡。"
+    },
+    {
+      "word": "benefit",
+      "phonetic": "/ˈbenɪfɪt/",
+      "pos": "n./v.",
+      "meaning": "好处；受益",
+      "example": "Exercise benefits our health.",
+      "exampleCn": "锻炼有益于我们的健康。"
+    },
+    {
+      "word": "brief",
+      "phonetic": "/briːf/",
+      "pos": "adj.",
+      "meaning": "简短的",
+      "example": "Please give a brief introduction.",
+      "exampleCn": "请做一个简短的介绍。"
+    },
+    {
+      "word": "broad",
+      "phonetic": "/brɔːd/",
+      "pos": "adj.",
+      "meaning": "宽广的；广泛的",
+      "example": "The topic covers a broad range.",
+      "exampleCn": "这个话题涵盖的范围很广。"
+    },
+    {
+      "word": "budget",
+      "phonetic": "/ˈbʌdʒɪt/",
+      "pos": "n.",
+      "meaning": "预算",
+      "example": "We must stay within the budget.",
+      "exampleCn": "我们必须把支出控制在预算之内。"
+    },
+    {
+      "word": "campaign",
+      "phonetic": "/kæmˈpeɪn/",
+      "pos": "n.",
+      "meaning": "运动；活动",
+      "example": "The school launched a reading campaign.",
+      "exampleCn": "学校发起了一场阅读活动。"
+    },
+    {
+      "word": "cancel",
+      "phonetic": "/ˈkænsl/",
+      "pos": "v.",
+      "meaning": "取消",
+      "example": "The meeting was cancelled.",
+      "exampleCn": "会议被取消了。"
+    },
+    {
+      "word": "capable",
+      "phonetic": "/ˈkeɪpəbl/",
+      "pos": "adj.",
+      "meaning": "有能力的",
+      "example": "She is capable of solving the problem.",
+      "exampleCn": "她有能力解决这个问题。"
+    },
+    {
+      "word": "career",
+      "phonetic": "/kəˈrɪə/",
+      "pos": "n.",
+      "meaning": "职业；生涯",
+      "example": "He chose teaching as his career.",
+      "exampleCn": "他选择把教书作为自己的职业。"
+    },
+    {
+      "word": "cause",
+      "phonetic": "/kɔːz/",
+      "pos": "n./v.",
+      "meaning": "原因；导致",
+      "example": "What caused the accident?",
+      "exampleCn": "是什么导致了这起事故？"
+    },
+    {
+      "word": "challenge",
+      "phonetic": "/ˈtʃælɪndʒ/",
+      "pos": "n./v.",
+      "meaning": "挑战",
+      "example": "Learning English is a challenge.",
+      "exampleCn": "学英语是一个挑战。"
+    },
+    {
+      "word": "character",
+      "phonetic": "/ˈkærəktə/",
+      "pos": "n.",
+      "meaning": "性格；角色；汉字",
+      "example": "He is a man of good character.",
+      "exampleCn": "他是一个品行端正的人。"
+    },
+    {
+      "word": "charge",
+      "phonetic": "/tʃɑːdʒ/",
+      "pos": "v./n.",
+      "meaning": "收费；负责",
+      "example": "They charge a small fee for the service.",
+      "exampleCn": "这项服务他们要收取少量费用。"
+    },
+    {
+      "word": "circumstance",
+      "phonetic": "/ˈsɜːkəmstəns/",
+      "pos": "n.",
+      "meaning": "情况；环境",
+      "example": "Under these circumstances, we must wait.",
+      "exampleCn": "在这种情况下，我们必须等待。"
+    },
+    {
+      "word": "claim",
+      "phonetic": "/kleɪm/",
+      "pos": "v./n.",
+      "meaning": "声称；索赔",
+      "example": "He claims that he saw the man.",
+      "exampleCn": "他声称自己见过那个男人。"
+    },
+    {
+      "word": "common",
+      "phonetic": "/ˈkɒmən/",
+      "pos": "adj.",
+      "meaning": "普通的；共同的",
+      "example": "It is a common mistake.",
+      "exampleCn": "这是一个常见的错误。"
+    },
+    {
+      "word": "communicate",
+      "phonetic": "/kəˈmjuːnɪkeɪt/",
+      "pos": "v.",
+      "meaning": "交流；沟通",
+      "example": "We communicate by email.",
+      "exampleCn": "我们通过电子邮件进行交流。"
+    },
+    {
+      "word": "community",
+      "phonetic": "/kəˈmjuːnəti/",
+      "pos": "n.",
+      "meaning": "社区；群体",
+      "example": "The community built a new park.",
+      "exampleCn": "社区新建了一座公园。"
+    },
+    {
+      "word": "compare",
+      "phonetic": "/kəmˈpeə/",
+      "pos": "v.",
+      "meaning": "比较",
+      "example": "Compare the two answers carefully.",
+      "exampleCn": "仔细比较一下这两个答案。"
+    },
+    {
+      "word": "compete",
+      "phonetic": "/kəmˈpiːt/",
+      "pos": "v.",
+      "meaning": "竞争；比赛",
+      "example": "Many students compete for the prize.",
+      "exampleCn": "许多学生都在竞争这个奖项。"
+    },
+    {
+      "word": "complex",
+      "phonetic": "/ˈkɒmpleks/",
+      "pos": "adj.",
+      "meaning": "复杂的",
+      "example": "The problem is too complex to solve.",
+      "exampleCn": "这个问题太复杂，很难解决。"
+    },
+    {
+      "word": "concern",
+      "phonetic": "/kənˈsɜːn/",
+      "pos": "n./v.",
+      "meaning": "关心；担忧",
+      "example": "This matter concerns everyone.",
+      "exampleCn": "这件事关系到每个人。"
+    },
+    {
+      "word": "conclude",
+      "phonetic": "/kənˈkluːd/",
+      "pos": "v.",
+      "meaning": "得出结论；结束",
+      "example": "The meeting concluded at noon.",
+      "exampleCn": "会议在中午结束了。"
+    },
+    {
+      "word": "condition",
+      "phonetic": "/kənˈdɪʃn/",
+      "pos": "n.",
+      "meaning": "条件；状况",
+      "example": "The road is in bad condition.",
+      "exampleCn": "这条路的路况很差。"
+    },
+    {
+      "word": "conduct",
+      "phonetic": "/kənˈdʌkt/",
+      "pos": "v.",
+      "meaning": "进行；实施",
+      "example": "They conducted a survey of students.",
+      "exampleCn": "他们对学生进行了一项调查。"
+    },
+    {
+      "word": "confirm",
+      "phonetic": "/kənˈfɜːm/",
+      "pos": "v.",
+      "meaning": "确认；证实",
+      "example": "Please confirm your email address.",
+      "exampleCn": "请确认你的电子邮箱地址。"
+    },
+    {
+      "word": "consider",
+      "phonetic": "/kənˈsɪdə/",
+      "pos": "v.",
+      "meaning": "考虑；认为",
+      "example": "Consider both sides before deciding.",
+      "exampleCn": "做决定之前要考虑到双方。"
+    },
+    {
+      "word": "consist",
+      "phonetic": "/kənˈsɪst/",
+      "pos": "v.",
+      "meaning": "由……组成",
+      "example": "The team consists of five members.",
+      "exampleCn": "这个团队由五名成员组成。"
+    },
+    {
+      "word": "constant",
+      "phonetic": "/ˈkɒnstənt/",
+      "pos": "adj.",
+      "meaning": "不断的；恒定的",
+      "example": "Constant practice brings progress.",
+      "exampleCn": "不断的练习会带来进步。"
+    },
+    {
+      "word": "contain",
+      "phonetic": "/kənˈteɪn/",
+      "pos": "v.",
+      "meaning": "包含",
+      "example": "The box contains old books.",
+      "exampleCn": "盒子里装着一些旧书。"
+    },
+    {
+      "word": "contribute",
+      "phonetic": "/kənˈtrɪbjuːt/",
+      "pos": "v.",
+      "meaning": "贡献；促成",
+      "example": "Exercise contributes to good health.",
+      "exampleCn": "锻炼有助于身体健康。"
+    },
+    {
+      "word": "convenient",
+      "phonetic": "/kənˈviːniənt/",
+      "pos": "adj.",
+      "meaning": "方便的",
+      "example": "The app is convenient to use.",
+      "exampleCn": "这个应用使用起来很方便。"
+    },
+    {
+      "word": "convince",
+      "phonetic": "/kənˈvɪns/",
+      "pos": "v.",
+      "meaning": "说服；使确信",
+      "example": "He convinced me to join the club.",
+      "exampleCn": "他说服我加入了俱乐部。"
+    },
+    {
+      "word": "create",
+      "phonetic": "/kriˈeɪt/",
+      "pos": "v.",
+      "meaning": "创造；创建",
+      "example": "Artists create beautiful works.",
+      "exampleCn": "艺术家创作出美丽的作品。"
+    },
+    {
+      "word": "culture",
+      "phonetic": "/ˈkʌltʃə/",
+      "pos": "n.",
+      "meaning": "文化",
+      "example": "We learned about Chinese culture.",
+      "exampleCn": "我们了解了一些中国文化。"
+    },
+    {
+      "word": "decline",
+      "phonetic": "/dɪˈklaɪn/",
+      "pos": "v./n.",
+      "meaning": "下降；拒绝",
+      "example": "Sales declined last month.",
+      "exampleCn": "上个月销售额下降了。"
+    },
+    {
+      "word": "define",
+      "phonetic": "/dɪˈfaɪn/",
+      "pos": "v.",
+      "meaning": "定义；明确",
+      "example": "Can you define this word?",
+      "exampleCn": "你能给这个单词下个定义吗？"
+    },
+    {
+      "word": "demand",
+      "phonetic": "/dɪˈmɑːnd/",
+      "pos": "n./v.",
+      "meaning": "需求；要求",
+      "example": "Demand for the product is high.",
+      "exampleCn": "这种产品的需求量很大。"
+    },
+    {
+      "word": "describe",
+      "phonetic": "/dɪˈskraɪb/",
+      "pos": "v.",
+      "meaning": "描述",
+      "example": "Describe what you saw.",
+      "exampleCn": "描述一下你看到的东西。"
+    },
+    {
+      "word": "deserve",
+      "phonetic": "/dɪˈzɜːv/",
+      "pos": "v.",
+      "meaning": "值得；应得",
+      "example": "You deserve a reward.",
+      "exampleCn": "你应该得到奖励。"
+    },
+    {
+      "word": "develop",
+      "phonetic": "/dɪˈveləp/",
+      "pos": "v.",
+      "meaning": "发展；开发",
+      "example": "The city developed quickly.",
+      "exampleCn": "这座城市发展得很快。"
+    },
+    {
+      "word": "device",
+      "phonetic": "/dɪˈvaɪs/",
+      "pos": "n.",
+      "meaning": "设备；装置",
+      "example": "Turn off electronic devices before class.",
+      "exampleCn": "上课前要关掉电子设备。"
+    },
+    {
+      "word": "devote",
+      "phonetic": "/dɪˈvəʊt/",
+      "pos": "v.",
+      "meaning": "奉献；致力于",
+      "example": "She devotes herself to teaching.",
+      "exampleCn": "她全身心投入到教学之中。"
+    },
+    {
+      "word": "differ",
+      "phonetic": "/ˈdɪfə/",
+      "pos": "v.",
+      "meaning": "不同；相异",
+      "example": "Opinions differ on this topic.",
+      "exampleCn": "在这个话题上，大家意见不一。"
+    },
+    {
+      "word": "discover",
+      "phonetic": "/dɪˈskʌvə/",
+      "pos": "v.",
+      "meaning": "发现",
+      "example": "Scientists discovered a new star.",
+      "exampleCn": "科学家发现了一颗新的恒星。"
+    },
+    {
+      "word": "discuss",
+      "phonetic": "/dɪˈskʌs/",
+      "pos": "v.",
+      "meaning": "讨论",
+      "example": "Let us discuss the plan.",
+      "exampleCn": "我们来讨论一下这个计划。"
+    },
+    {
+      "word": "disease",
+      "phonetic": "/dɪˈziːz/",
+      "pos": "n.",
+      "meaning": "疾病",
+      "example": "The disease spread quickly.",
+      "exampleCn": "这种疾病传播得很快。"
+    },
+    {
+      "word": "distance",
+      "phonetic": "/ˈdɪstəns/",
+      "pos": "n.",
+      "meaning": "距离",
+      "example": "The distance is about five miles.",
+      "exampleCn": "距离大约有五英里。"
+    },
+    {
+      "word": "distinguish",
+      "phonetic": "/dɪˈstɪŋɡwɪʃ/",
+      "pos": "v.",
+      "meaning": "区分；辨别",
+      "example": "It is hard to distinguish the twins.",
+      "exampleCn": "很难区分这对双胞胎。"
+    },
+    {
+      "word": "distribute",
+      "phonetic": "/dɪˈstrɪbjuːt/",
+      "pos": "v.",
+      "meaning": "分配；分发",
+      "example": "The teacher distributed the papers.",
+      "exampleCn": "老师分发了试卷。"
+    },
+    {
+      "word": "doubt",
+      "phonetic": "/daʊt/",
+      "pos": "n./v.",
+      "meaning": "怀疑",
+      "example": "I doubt whether he will come.",
+      "exampleCn": "我怀疑他是否会来。"
+    },
+    {
+      "word": "efficient",
+      "phonetic": "/ɪˈfɪʃnt/",
+      "pos": "adj.",
+      "meaning": "高效的",
+      "example": "This is an efficient way to study.",
+      "exampleCn": "这是一种高效的学习方法。"
+    },
+    {
+      "word": "effort",
+      "phonetic": "/ˈefət/",
+      "pos": "n.",
+      "meaning": "努力",
+      "example": "Success requires great effort.",
+      "exampleCn": "成功需要付出巨大的努力。"
+    },
+    {
+      "word": "emphasize",
+      "phonetic": "/ˈemfəsaɪz/",
+      "pos": "v.",
+      "meaning": "强调",
+      "example": "The teacher emphasized the key points.",
+      "exampleCn": "老师强调了重点内容。"
+    },
+    {
+      "word": "enable",
+      "phonetic": "/ɪˈneɪbl/",
+      "pos": "v.",
+      "meaning": "使能够",
+      "example": "The Internet enables us to learn online.",
+      "exampleCn": "互联网使我们能够在线学习。"
+    },
+    {
+      "word": "encourage",
+      "phonetic": "/ɪnˈkʌrɪdʒ/",
+      "pos": "v.",
+      "meaning": "鼓励",
+      "example": "Parents should encourage their children.",
+      "exampleCn": "父母应该鼓励自己的孩子。"
+    },
+    {
+      "word": "environment",
+      "phonetic": "/ɪnˈvaɪrənmənt/",
+      "pos": "n.",
+      "meaning": "环境",
+      "example": "We must protect the environment.",
+      "exampleCn": "我们必须保护环境。"
+    },
+    {
+      "word": "establish",
+      "phonetic": "/ɪˈstæblɪʃ/",
+      "pos": "v.",
+      "meaning": "建立；设立",
+      "example": "The school was established in 1990.",
+      "exampleCn": "这所学校建于 1990 年。"
+    },
+    {
+      "word": "estimate",
+      "phonetic": "/ˈestɪmeɪt/",
+      "pos": "v./n.",
+      "meaning": "估计；估算",
+      "example": "We estimate the cost at 100 yuan.",
+      "exampleCn": "我们估计费用为 100 元。"
+    },
+    {
+      "word": "evaluate",
+      "phonetic": "/ɪˈvæljueɪt/",
+      "pos": "v.",
+      "meaning": "评价；评估",
+      "example": "Please evaluate the results.",
+      "exampleCn": "请评估一下这些结果。"
+    },
+    {
+      "word": "evidence",
+      "phonetic": "/ˈevɪdəns/",
+      "pos": "n.",
+      "meaning": "证据",
+      "example": "There is no evidence to support the claim.",
+      "exampleCn": "没有证据支持这种说法。"
+    },
+    {
+      "word": "examine",
+      "phonetic": "/ɪɡˈzæmɪn/",
+      "pos": "v.",
+      "meaning": "检查；考试",
+      "example": "The doctor examined the patient.",
+      "exampleCn": "医生为病人做了检查。"
+    },
+    {
+      "word": "expand",
+      "phonetic": "/ɪkˈspænd/",
+      "pos": "v.",
+      "meaning": "扩大；扩展",
+      "example": "The company plans to expand.",
+      "exampleCn": "公司计划扩大规模。"
+    },
+    {
+      "word": "experience",
+      "phonetic": "/ɪkˈspɪəriəns/",
+      "pos": "n./v.",
+      "meaning": "经验；经历",
+      "example": "She has rich teaching experience.",
+      "exampleCn": "她有丰富的教学经验。"
+    },
+    {
+      "word": "explain",
+      "phonetic": "/ɪkˈspleɪn/",
+      "pos": "v.",
+      "meaning": "解释",
+      "example": "Can you explain the rule again?",
+      "exampleCn": "你能再解释一下这条规则吗？"
+    },
+    {
+      "word": "express",
+      "phonetic": "/ɪkˈspres/",
+      "pos": "v.",
+      "meaning": "表达",
+      "example": "He expressed his thanks.",
+      "exampleCn": "他表达了自己的感谢。"
+    },
+    {
+      "word": "factor",
+      "phonetic": "/ˈfæktə/",
+      "pos": "n.",
+      "meaning": "因素",
+      "example": "Hard work is a key factor.",
+      "exampleCn": "努力是一个关键因素。"
+    },
+    {
+      "word": "feature",
+      "phonetic": "/ˈfiːtʃə/",
+      "pos": "n.",
+      "meaning": "特征；特色",
+      "example": "The phone has many useful features.",
+      "exampleCn": "这款手机有很多实用的功能。"
+    },
+    {
+      "word": "focus",
+      "phonetic": "/ˈfəʊkəs/",
+      "pos": "v./n.",
+      "meaning": "专注；焦点",
+      "example": "Focus on the main idea.",
+      "exampleCn": "把注意力集中在主要观点上。"
+    },
+    {
+      "word": "frequent",
+      "phonetic": "/ˈfriːkwənt/",
+      "pos": "adj.",
+      "meaning": "频繁的",
+      "example": "He is a frequent visitor here.",
+      "exampleCn": "他是这里的常客。"
+    },
+    {
+      "word": "function",
+      "phonetic": "/ˈfʌŋkʃn/",
+      "pos": "n./v.",
+      "meaning": "功能；运转",
+      "example": "What is the function of this key?",
+      "exampleCn": "这个按键的功能是什么？"
+    },
+    {
+      "word": "generate",
+      "phonetic": "/ˈdʒenəreɪt/",
+      "pos": "v.",
+      "meaning": "产生；生成",
+      "example": "The plan generated much interest.",
+      "exampleCn": "这个计划引起了很大的兴趣。"
+    },
+    {
+      "word": "goal",
+      "phonetic": "/ɡəʊl/",
+      "pos": "n.",
+      "meaning": "目标；球门",
+      "example": "Set a clear goal for yourself.",
+      "exampleCn": "为自己设定一个明确的目标。"
+    },
+    {
+      "word": "gradual",
+      "phonetic": "/ˈɡrædʒuəl/",
+      "pos": "adj.",
+      "meaning": "逐渐的",
+      "example": "There was a gradual improvement.",
+      "exampleCn": "情况在逐步改善。"
+    },
+    {
+      "word": "guarantee",
+      "phonetic": "/ˌɡærənˈtiː/",
+      "pos": "v./n.",
+      "meaning": "保证；担保",
+      "example": "The product has a two-year guarantee.",
+      "exampleCn": "这款产品有两年的保修期。"
+    },
+    {
+      "word": "habit",
+      "phonetic": "/ˈhæbɪt/",
+      "pos": "n.",
+      "meaning": "习惯",
+      "example": "Reading is a good habit.",
+      "exampleCn": "阅读是一个好习惯。"
+    },
+    {
+      "word": "identify",
+      "phonetic": "/aɪˈdentɪfaɪ/",
+      "pos": "v.",
+      "meaning": "识别；确认",
+      "example": "Can you identify the speaker?",
+      "exampleCn": "你能认出那位说话的人吗？"
+    },
+    {
+      "word": "ignore",
+      "phonetic": "/ɪɡˈnɔː/",
+      "pos": "v.",
+      "meaning": "忽视；不理",
+      "example": "Do not ignore the details.",
+      "exampleCn": "不要忽视细节。"
+    },
+    {
+      "word": "imagine",
+      "phonetic": "/ɪˈmædʒɪn/",
+      "pos": "v.",
+      "meaning": "想象",
+      "example": "Imagine a world without books.",
+      "exampleCn": "想象一个没有书的世界。"
+    },
+    {
+      "word": "immediate",
+      "phonetic": "/ɪˈmiːdiət/",
+      "pos": "adj.",
+      "meaning": "立即的",
+      "example": "We need an immediate answer.",
+      "exampleCn": "我们需要立即得到答复。"
+    },
+    {
+      "word": "impact",
+      "phonetic": "/ˈɪmpækt/",
+      "pos": "n./v.",
+      "meaning": "影响；冲击",
+      "example": "The news had a big impact.",
+      "exampleCn": "这则新闻产生了很大的影响。"
+    },
+    {
+      "word": "improve",
+      "phonetic": "/ɪmˈpruːv/",
+      "pos": "v.",
+      "meaning": "改善；提高",
+      "example": "Practice can improve your writing.",
+      "exampleCn": "练习可以提高你的写作水平。"
+    },
+    {
+      "word": "include",
+      "phonetic": "/ɪnˈkluːd/",
+      "pos": "v.",
+      "meaning": "包括",
+      "example": "The price includes breakfast.",
+      "exampleCn": "价格里包含了早餐。"
+    },
+    {
+      "word": "increase",
+      "phonetic": "/ɪnˈkriːs/",
+      "pos": "v./n.",
+      "meaning": "增加",
+      "example": "The number of users increased.",
+      "exampleCn": "用户数量增加了。"
+    },
+    {
+      "word": "indicate",
+      "phonetic": "/ˈɪndɪkeɪt/",
+      "pos": "v.",
+      "meaning": "表明；指示",
+      "example": "The sign indicates the direction.",
+      "exampleCn": "这个标志指示着方向。"
+    },
+    {
+      "word": "individual",
+      "phonetic": "/ˌɪndɪˈvɪdʒuəl/",
+      "pos": "n./adj.",
+      "meaning": "个人；个别的",
+      "example": "Each individual has a role.",
+      "exampleCn": "每个人都有自己的一份作用。"
+    },
+    {
+      "word": "influence",
+      "phonetic": "/ˈɪnfluəns/",
+      "pos": "n./v.",
+      "meaning": "影响",
+      "example": "Friends influence our choices.",
+      "exampleCn": "朋友会影响我们的选择。"
+    },
+    {
+      "word": "inform",
+      "phonetic": "/ɪnˈfɔːm/",
+      "pos": "v.",
+      "meaning": "通知；告知",
+      "example": "Please inform us of any changes.",
+      "exampleCn": "如有任何变动，请通知我们。"
+    },
+    {
+      "word": "insist",
+      "phonetic": "/ɪnˈsɪst/",
+      "pos": "v.",
+      "meaning": "坚持",
+      "example": "She insisted on paying the bill.",
+      "exampleCn": "她坚持要付账。"
+    },
+    {
+      "word": "inspire",
+      "phonetic": "/ɪnˈspaɪə/",
+      "pos": "v.",
+      "meaning": "激励；启发",
+      "example": "The story inspired many readers.",
+      "exampleCn": "这个故事激励了许多读者。"
+    },
+    {
+      "word": "intend",
+      "phonetic": "/ɪnˈtend/",
+      "pos": "v.",
+      "meaning": "打算；想要",
+      "example": "I intend to finish it today.",
+      "exampleCn": "我打算今天把它完成。"
+    },
+    {
+      "word": "involve",
+      "phonetic": "/ɪnˈvɒlv/",
+      "pos": "v.",
+      "meaning": "涉及；使参与",
+      "example": "The job involves much travel.",
+      "exampleCn": "这份工作需要经常出差。"
+    },
+    {
+      "word": "issue",
+      "phonetic": "/ˈɪʃuː/",
+      "pos": "n./v.",
+      "meaning": "问题；发行",
+      "example": "This is an important social issue.",
+      "exampleCn": "这是一个重要的社会问题。"
+    },
+    {
+      "word": "maintain",
+      "phonetic": "/meɪnˈteɪn/",
+      "pos": "v.",
+      "meaning": "维持；坚持",
+      "example": "Maintain a healthy diet.",
+      "exampleCn": "保持健康的饮食习惯。"
+    },
+    {
+      "word": "measure",
+      "phonetic": "/ˈmeʒə/",
+      "pos": "v./n.",
+      "meaning": "测量；措施",
+      "example": "We should take measures to save water.",
+      "exampleCn": "我们应该采取措施节约用水。"
+    },
+    {
+      "word": "method",
+      "phonetic": "/ˈmeθəd/",
+      "pos": "n.",
+      "meaning": "方法",
+      "example": "This method works well.",
+      "exampleCn": "这种方法很有效。"
+    },
+    {
+      "word": "obtain",
+      "phonetic": "/əbˈteɪn/",
+      "pos": "v.",
+      "meaning": "获得",
+      "example": "You can obtain a copy online.",
+      "exampleCn": "你可以在网上拿到一份副本。"
+    },
+    {
+      "word": "obvious",
+      "phonetic": "/ˈɒbviəs/",
+      "pos": "adj.",
+      "meaning": "明显的",
+      "example": "The answer is obvious.",
+      "exampleCn": "答案很明显。"
+    },
+    {
+      "word": "occasion",
+      "phonetic": "/əˈkeɪʒn/",
+      "pos": "n.",
+      "meaning": "场合；时机",
+      "example": "This is a special occasion.",
+      "exampleCn": "这是一个特殊的场合。"
+    },
+    {
+      "word": "occur",
+      "phonetic": "/əˈkɜː/",
+      "pos": "v.",
+      "meaning": "发生；出现",
+      "example": "The accident occurred at night.",
+      "exampleCn": "事故发生在夜里。"
+    },
+    {
+      "word": "opinion",
+      "phonetic": "/əˈpɪnjən/",
+      "pos": "n.",
+      "meaning": "意见；看法",
+      "example": "In my opinion, it is worth trying.",
+      "exampleCn": "在我看来，这值得一试。"
+    },
+    {
+      "word": "opportunity",
+      "phonetic": "/ˌɒpəˈtjuːnəti/",
+      "pos": "n.",
+      "meaning": "机会",
+      "example": "This is a good opportunity for you.",
+      "exampleCn": "这对你来说是个好机会。"
+    },
+    {
+      "word": "particular",
+      "phonetic": "/pəˈtɪkjələ/",
+      "pos": "adj.",
+      "meaning": "特定的；特别的",
+      "example": "Pay attention to this particular point.",
+      "exampleCn": "请特别注意这一点。"
+    },
+    {
+      "word": "perform",
+      "phonetic": "/pəˈfɔːm/",
+      "pos": "v.",
+      "meaning": "执行；表演",
+      "example": "The students performed well.",
+      "exampleCn": "学生们表现得很好。"
+    },
+    {
+      "word": "persuade",
+      "phonetic": "/pəˈsweɪd/",
+      "pos": "v.",
+      "meaning": "说服",
+      "example": "He persuaded me to stay.",
+      "exampleCn": "他说服我留了下来。"
+    },
+    {
+      "word": "phenomenon",
+      "phonetic": "/fəˈnɒmɪnən/",
+      "pos": "n.",
+      "meaning": "现象",
+      "example": "This is a common social phenomenon.",
+      "exampleCn": "这是一种常见的社会现象。"
+    },
+    {
+      "word": "practical",
+      "phonetic": "/ˈpræktɪkl/",
+      "pos": "adj.",
+      "meaning": "实际的；实用的",
+      "example": "The course offers practical skills.",
+      "exampleCn": "这门课程教授实用技能。"
+    },
+    {
+      "word": "predict",
+      "phonetic": "/prɪˈdɪkt/",
+      "pos": "v.",
+      "meaning": "预测",
+      "example": "It is hard to predict the future.",
+      "exampleCn": "很难预测未来。"
+    },
+    {
+      "word": "prefer",
+      "phonetic": "/prɪˈfɜː/",
+      "pos": "v.",
+      "meaning": "更喜欢",
+      "example": "I prefer tea to coffee.",
+      "exampleCn": "比起咖啡，我更喜欢茶。"
+    },
+    {
+      "word": "prevent",
+      "phonetic": "/prɪˈvent/",
+      "pos": "v.",
+      "meaning": "阻止；预防",
+      "example": "Washing hands prevents disease.",
+      "exampleCn": "洗手可以预防疾病。"
+    },
+    {
+      "word": "process",
+      "phonetic": "/ˈprəʊses/",
+      "pos": "n./v.",
+      "meaning": "过程；处理",
+      "example": "Learning is a gradual process.",
+      "exampleCn": "学习是一个循序渐进的过程。"
+    },
+    {
+      "word": "produce",
+      "phonetic": "/prəˈdjuːs/",
+      "pos": "v.",
+      "meaning": "生产；产生",
+      "example": "The factory produces cars.",
+      "exampleCn": "这家工厂生产汽车。"
+    },
+    {
+      "word": "provide",
+      "phonetic": "/prəˈvaɪd/",
+      "pos": "v.",
+      "meaning": "提供",
+      "example": "The hotel provides free Wi-Fi.",
+      "exampleCn": "这家酒店提供免费无线网络。"
+    },
+    {
+      "word": "purpose",
+      "phonetic": "/ˈpɜːpəs/",
+      "pos": "n.",
+      "meaning": "目的",
+      "example": "What is the purpose of the visit?",
+      "exampleCn": "这次访问的目的是什么？"
+    },
+    {
+      "word": "quality",
+      "phonetic": "/ˈkwɒləti/",
+      "pos": "n.",
+      "meaning": "质量；品质",
+      "example": "The quality of the product is high.",
+      "exampleCn": "这款产品的质量很高。"
+    },
+    {
+      "word": "range",
+      "phonetic": "/reɪndʒ/",
+      "pos": "n./v.",
+      "meaning": "范围；一系列",
+      "example": "The store sells a wide range of goods.",
+      "exampleCn": "这家商店出售各种各样的商品。"
+    },
+    {
+      "word": "recognize",
+      "phonetic": "/ˈrekəɡnaɪz/",
+      "pos": "v.",
+      "meaning": "认出；承认",
+      "example": "I recognized her voice at once.",
+      "exampleCn": "我立刻听出了她的声音。"
+    },
+    {
+      "word": "recommend",
+      "phonetic": "/ˌrekəˈmend/",
+      "pos": "v.",
+      "meaning": "推荐",
+      "example": "I recommend this book to you.",
+      "exampleCn": "我向你推荐这本书。"
+    },
+    {
+      "word": "reduce",
+      "phonetic": "/rɪˈdjuːs/",
+      "pos": "v.",
+      "meaning": "减少",
+      "example": "We should reduce waste.",
+      "exampleCn": "我们应该减少浪费。"
+    },
+    {
+      "word": "reflect",
+      "phonetic": "/rɪˈflekt/",
+      "pos": "v.",
+      "meaning": "反映；反思",
+      "example": "The results reflect hard work.",
+      "exampleCn": "这些结果反映出大家的努力。"
+    },
+    {
+      "word": "relate",
+      "phonetic": "/rɪˈleɪt/",
+      "pos": "v.",
+      "meaning": "联系；叙述",
+      "example": "The question relates to our topic.",
+      "exampleCn": "这个问题与我们的主题有关。"
+    },
+    {
+      "word": "rely",
+      "phonetic": "/rɪˈlaɪ/",
+      "pos": "v.",
+      "meaning": "依赖；依靠",
+      "example": "Do not rely on luck.",
+      "exampleCn": "不要依赖运气。"
+    },
+    {
+      "word": "require",
+      "phonetic": "/rɪˈkwaɪə/",
+      "pos": "v.",
+      "meaning": "需要；要求",
+      "example": "The task requires patience.",
+      "exampleCn": "这项任务需要耐心。"
+    },
+    {
+      "word": "research",
+      "phonetic": "/rɪˈsɜːtʃ/",
+      "pos": "n./v.",
+      "meaning": "研究",
+      "example": "She is doing research on memory.",
+      "exampleCn": "她正在研究记忆。"
+    },
+    {
+      "word": "resource",
+      "phonetic": "/rɪˈsɔːs/",
+      "pos": "n.",
+      "meaning": "资源",
+      "example": "Water is a precious resource.",
+      "exampleCn": "水是一种宝贵的资源。"
+    },
+    {
+      "word": "respond",
+      "phonetic": "/rɪˈspɒnd/",
+      "pos": "v.",
+      "meaning": "回应；回答",
+      "example": "Please respond to the question.",
+      "exampleCn": "请回答这个问题。"
+    },
+    {
+      "word": "result",
+      "phonetic": "/rɪˈzʌlt/",
+      "pos": "n./v.",
+      "meaning": "结果；导致",
+      "example": "Hard work brings good results.",
+      "exampleCn": "努力会带来好的结果。"
+    },
+    {
+      "word": "reveal",
+      "phonetic": "/rɪˈviːl/",
+      "pos": "v.",
+      "meaning": "揭示；透露",
+      "example": "The study reveals an interesting fact.",
+      "exampleCn": "这项研究揭示了一个有趣的事实。"
+    },
+    {
+      "word": "select",
+      "phonetic": "/sɪˈlekt/",
+      "pos": "v.",
+      "meaning": "选择",
+      "example": "Select the correct answer.",
+      "exampleCn": "选出正确的答案。"
+    },
+    {
+      "word": "significant",
+      "phonetic": "/sɪɡˈnɪfɪkənt/",
+      "pos": "adj.",
+      "meaning": "重要的；显著的",
+      "example": "There was a significant change.",
+      "exampleCn": "发生了显著的变化。"
+    },
+    {
+      "word": "similar",
+      "phonetic": "/ˈsɪmələ/",
+      "pos": "adj.",
+      "meaning": "相似的",
+      "example": "The two words have similar meanings.",
+      "exampleCn": "这两个词的意思相近。"
+    },
+    {
+      "word": "source",
+      "phonetic": "/sɔːs/",
+      "pos": "n.",
+      "meaning": "来源；出处",
+      "example": "Check the source of the information.",
+      "exampleCn": "核实一下信息的来源。"
+    },
+    {
+      "word": "specific",
+      "phonetic": "/spəˈsɪfɪk/",
+      "pos": "adj.",
+      "meaning": "具体的；特定的",
+      "example": "Give a specific example.",
+      "exampleCn": "请举一个具体的例子。"
+    },
+    {
+      "word": "struggle",
+      "phonetic": "/ˈstrʌɡl/",
+      "pos": "v./n.",
+      "meaning": "奋斗；挣扎",
+      "example": "He struggled to finish the work.",
+      "exampleCn": "他费了很大劲才完成这项工作。"
+    },
+    {
+      "word": "suggest",
+      "phonetic": "/səˈdʒest/",
+      "pos": "v.",
+      "meaning": "建议；暗示",
+      "example": "I suggest starting early.",
+      "exampleCn": "我建议早点开始。"
+    },
+    {
+      "word": "support",
+      "phonetic": "/səˈpɔːt/",
+      "pos": "v./n.",
+      "meaning": "支持",
+      "example": "My family supports my plan.",
+      "exampleCn": "我的家人支持我的计划。"
+    },
+    {
+      "word": "survey",
+      "phonetic": "/ˈsɜːveɪ/",
+      "pos": "n./v.",
+      "meaning": "调查；测量",
+      "example": "The survey covered 1,000 people.",
+      "exampleCn": "这项调查覆盖了 1000 人。"
+    },
+    {
+      "word": "tend",
+      "phonetic": "/tend/",
+      "pos": "v.",
+      "meaning": "倾向于",
+      "example": "People tend to forget small details.",
+      "exampleCn": "人们往往会忘记小细节。"
+    },
+    {
+      "word": "therefore",
+      "phonetic": "/ˈðeəfɔː/",
+      "pos": "adv.",
+      "meaning": "因此",
+      "example": "He was ill, therefore he stayed home.",
+      "exampleCn": "他病了，因此待在家里。"
+    },
+    {
+      "word": "tradition",
+      "phonetic": "/trəˈdɪʃn/",
+      "pos": "n.",
+      "meaning": "传统",
+      "example": "The festival is an old tradition.",
+      "exampleCn": "这个节日是一项古老的传统。"
+    },
+    {
+      "word": "transfer",
+      "phonetic": "/trænsˈfɜː/",
+      "pos": "v./n.",
+      "meaning": "转移；换乘",
+      "example": "Transfer the files to the new computer.",
+      "exampleCn": "把这些文件转移到新电脑上。"
+    },
+    {
+      "word": "typical",
+      "phonetic": "/ˈtɪpɪkl/",
+      "pos": "adj.",
+      "meaning": "典型的",
+      "example": "This is a typical example.",
+      "exampleCn": "这是一个典型的例子。"
+    },
+    {
+      "word": "unique",
+      "phonetic": "/juˈniːk/",
+      "pos": "adj.",
+      "meaning": "独特的",
+      "example": "Each person is unique.",
+      "exampleCn": "每个人都是独一无二的。"
+    },
+    {
+      "word": "various",
+      "phonetic": "/ˈveəriəs/",
+      "pos": "adj.",
+      "meaning": "各种各样的",
+      "example": "The store sells various items.",
+      "exampleCn": "这家商店出售各种各样的物品。"
+    },
+    {
+      "word": "volunteer",
+      "phonetic": "/ˌvɒlənˈtɪə/",
+      "pos": "n./v.",
+      "meaning": "志愿者；自愿",
+      "example": "Many students volunteered to help.",
+      "exampleCn": "许多学生自愿来帮忙。"
+    },
+    {
+      "word": "widespread",
+      "phonetic": "/ˈwaɪdspred/",
+      "pos": "adj.",
+      "meaning": "广泛的",
+      "example": "The use of smartphones is widespread.",
+      "exampleCn": "智能手机的使用非常普遍。"
+    }
+  ]
+}

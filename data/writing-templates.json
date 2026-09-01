@@ -1,0 +1,55 @@
+{
+  "templates": [
+    {
+      "id": "opinion",
+      "name": "观点论述型",
+      "use": "适合“谈谈你对……的看法”“……的利与弊”类题目。",
+      "outline": [
+        "第一段：引出话题，亮出观点。",
+        "第二段：给出 2–3 个理由或正反两面分析。",
+        "第三段：总结并重申观点。"
+      ],
+      "sentences": [
+        "Nowadays, ... has become a hot topic.",
+        "In my opinion, ...",
+        "On the one hand, ... On the other hand, ...",
+        "Therefore, I believe that ..."
+      ],
+      "sample": "Nowadays, online learning has become a hot topic. In my opinion, it has both advantages and disadvantages. On the one hand, it is convenient and flexible; on the other hand, it requires strong self-discipline. Therefore, I believe that we should make good use of online learning while managing our time well."
+    },
+    {
+      "id": "problem",
+      "name": "问题解决型",
+      "use": "适合“如何解决……问题”“……的应对措施”类题目。",
+      "outline": [
+        "第一段：说明问题的现状与危害。",
+        "第二段：提出 2–3 条具体措施。",
+        "第三段：总结并号召行动。"
+      ],
+      "sentences": [
+        "In recent years, ... has become a serious problem.",
+        "To solve this problem, several measures should be taken.",
+        "First, ... Second, ... Finally, ...",
+        "Only in this way can we ..."
+      ],
+      "sample": "In recent years, environmental pollution has become a serious problem. To solve this problem, several measures should be taken. First, governments should pass stricter laws. Second, companies should reduce waste. Finally, individuals should live a green life. Only in this way can we protect our planet."
+    },
+    {
+      "id": "chart",
+      "name": "图表描述型",
+      "use": "适合“根据图表描述数据变化并分析原因”类题目。",
+      "outline": [
+        "第一段：概括图表内容与总体趋势。",
+        "第二段：描述具体数据变化并分析原因。",
+        "第三段：总结或给出预测。"
+      ],
+      "sentences": [
+        "As is shown in the chart, ...",
+        "The number rose from ... to ...",
+        "This can be explained by several reasons.",
+        "It is likely that the trend will continue."
+      ],
+      "sample": "As is shown in the chart, the number of smartphone users rose rapidly from 2010 to 2020. This can be explained by several reasons. First, smartphones have become cheaper. Second, mobile apps make life more convenient. It is likely that the trend will continue in the future."
+    }
+  ]
+}

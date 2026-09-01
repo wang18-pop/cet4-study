@@ -1,0 +1,40 @@
+{
+  "id": "original-writing",
+  "title": "原创写作练习",
+  "type": "writing",
+  "typeLabel": "写作",
+  "description": "四级高频作文话题，附提纲与参考范文。先按提纲写一段，再对照范文自评。",
+  "suggestMinutes": 30,
+  "sections": [
+    {
+      "id": "writing",
+      "name": "写作（3 个高频话题）",
+      "questions": [
+        {
+          "id": "w1",
+          "no": 1,
+          "type": "text",
+          "stem": "Directions: Write an essay on the topic \"Online Learning\". You should state the advantages and disadvantages of online learning, and give your own view. Write at least 120 words.",
+          "answer": "Online learning has become increasingly popular in recent years. On the one hand, it offers great convenience: students can attend classes anytime and anywhere, and they can review the recordings when they need to. On the other hand, it also has clear disadvantages. Without face-to-face communication, some students find it hard to stay focused, and they may easily put off their study tasks. In my opinion, online learning is a useful tool, but it works best when combined with self-discipline. We should make full use of its advantages while learning to manage our time well.",
+          "analysis": "结构建议：先点明现象，再分别写优点、缺点，最后给出个人看法。用 On the one hand / On the other hand 连接观点，结尾用 In my opinion 收束。"
+        },
+        {
+          "id": "w2",
+          "no": 2,
+          "type": "text",
+          "stem": "Directions: Write an essay on the topic \"How to Protect the Environment\". You should explain why it matters and suggest some practical measures. Write at least 120 words.",
+          "answer": "Environmental protection matters because the earth is our only home, and pollution has already affected our health and daily life. To protect the environment, governments should pass stricter laws to reduce pollution from factories and cars. At the same time, each of us can take small actions in daily life. For example, we can save water, sort our rubbish, use public transport, and refuse single-use plastic bags. Schools should also teach young people to care about nature. In short, protecting the environment is not only the duty of governments but also the responsibility of every individual. Small efforts, when added together, can make a big difference.",
+          "analysis": "结构建议：先讲环保的重要性，再分“政府层面”和“个人层面”提措施，最后总结。使用 For example 和 In short 使段落更连贯。"
+        },
+        {
+          "id": "w3",
+          "no": 3,
+          "type": "text",
+          "stem": "Directions: Write an essay on the topic \"Balancing Study and Leisure\". You should explain the importance of a good balance and give some advice. Write at least 120 words.",
+          "answer": "A good balance between study and leisure is important for both our health and our progress. If we study all the time, we may feel tired and lose interest. If we spend too much time on leisure, we may fall behind in our studies. Therefore, we should make a reasonable schedule. For instance, we can study in focused blocks and take short breaks between them, and we can exercise or read for pleasure after finishing our tasks. It is also helpful to set clear goals so that our rest time feels well-earned. In conclusion, study and leisure are not enemies; when they are balanced, they can support each other and help us live a fuller life.",
+          "analysis": "结构建议：先点明平衡的重要性，再分析“只学”和“只玩”的问题，然后提具体建议，最后总结。使用 For instance 和 In conclusion 提升逻辑性。"
+        }
+      ]
+    }
+  ]
+}

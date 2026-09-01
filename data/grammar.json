@@ -1,0 +1,142 @@
+{
+  "lessons": [
+    {
+      "id": "tense",
+      "title": "英语时态基础",
+      "summary": "一般现在时、过去时、将来时与现在进行时",
+      "content": [
+        "一般现在时表示习惯、事实或经常发生的动作，动词用原形，第三人称单数加 -s/-es。例如：She reads every morning.",
+        "一般过去时表示过去发生的动作，规则动词加 -ed。例如：I visited my friend yesterday.",
+        "一般将来时用 will + 动词原形，表示将要发生的动作。例如：We will meet tomorrow.",
+        "现在进行时用 am/is/are + doing，表示此刻正在进行的动作。例如：He is studying now."
+      ],
+      "quiz": [
+        { "id": "g1", "type": "choice", "stem": "She ___ to school every day.", "options": ["go", "goes", "went", "going"], "answer": "B", "analysis": "every day 表示一般现在时，主语 She 是第三人称单数，动词用 goes。" },
+        { "id": "g2", "type": "choice", "stem": "They ___ a movie last night.", "options": ["watch", "watches", "watched", "watching"], "answer": "C", "analysis": "last night 表示过去时间，用一般过去时 watched。" },
+        { "id": "g3", "type": "choice", "stem": "We ___ visit the museum next week.", "options": ["will", "are", "were", "did"], "answer": "A", "analysis": "next week 表示将来时间，用 will + 动词原形。" },
+        { "id": "g4", "type": "choice", "stem": "Listen! The baby ___ .", "options": ["cries", "cried", "is crying", "cry"], "answer": "C", "analysis": "Listen! 提示动作正在进行，用现在进行时 is crying。" },
+        { "id": "g5", "type": "choice", "stem": "I usually ___ up at seven.", "options": ["get", "got", "getting", "gets"], "answer": "A", "analysis": "usually 表示习惯，主语 I 后用动词原形 get。" }
+      ]
+    },
+    {
+      "id": "noun-article",
+      "title": "名词与冠词",
+      "summary": "可数/不可数名词与 a、an、the 的用法",
+      "content": [
+        "可数名词有单复数，复数通常加 -s；不可数名词一般没有复数，如 water、information、advice。",
+        "第一次提到某物用 a/an，再次提到用 the；a 用于辅音音素前，an 用于元音音素前。",
+        "the 还用于特指、独一无二的事物、乐器等。例如：the sun、play the piano。"
+      ],
+      "quiz": [
+        { "id": "g6", "type": "choice", "stem": "I bought ___ apple and ___ banana.", "options": ["an, a", "a, an", "the, a", "an, the"], "answer": "A", "analysis": "apple 以元音音素开头用 an，banana 以辅音音素开头用 a。" },
+        { "id": "g7", "type": "choice", "stem": "___ information you gave me is useful.", "options": ["A", "An", "The", "不填"], "answer": "C", "analysis": "information 是特指“你给我的信息”，用 the；且 information 不可数，不能用 a/an。" },
+        { "id": "g8", "type": "choice", "stem": "She has two ___ .", "options": ["child", "childs", "children", "childrens"], "answer": "C", "analysis": "child 的复数是 children，前面有 two，用复数。" },
+        { "id": "g9", "type": "choice", "stem": "I need ___ advice on this matter.", "options": ["an", "a", "some", "many"], "answer": "C", "analysis": "advice 是不可数名词，不能用 a/an/many，用 some 表示“一些建议”。" },
+        { "id": "g10", "type": "choice", "stem": "He plays ___ guitar very well.", "options": ["a", "an", "the", "不填"], "answer": "C", "analysis": "乐器前通常用定冠词 the：play the guitar。" }
+      ]
+    },
+    {
+      "id": "adj-adv",
+      "title": "形容词与副词",
+      "summary": "形容词修饰名词，副词修饰动词/形容词/副词",
+      "content": [
+        "形容词修饰名词，一般放在名词前或系动词后。例如：a beautiful flower；She is happy.",
+        "副词修饰动词、形容词或其他副词，常由形容词加 -ly 构成。例如：He runs quickly.",
+        "比较级用于两者比较（+er/more），最高级用于三者以上（+est/most）。例如：taller、the tallest。"
+      ],
+      "quiz": [
+        { "id": "g11", "type": "choice", "stem": "She sings very ___ .", "options": ["good", "well", "better", "best"], "answer": "B", "analysis": "修饰动词 sings 用副词 well；good 是形容词。" },
+        { "id": "g12", "type": "choice", "stem": "This book is ___ than that one.", "options": ["interesting", "more interesting", "most interesting", "interestingly"], "answer": "B", "analysis": "两者比较用比较级，多音节形容词用 more + 原级。" },
+        { "id": "g13", "type": "choice", "stem": "He is the ___ student in the class.", "options": ["tall", "taller", "tallest", "most tall"], "answer": "C", "analysis": "三者以上比较用最高级 the tallest；tall 是单音节，直接加 -est。" },
+        { "id": "g14", "type": "choice", "stem": "The girl looks ___ today.", "options": ["happy", "happily", "happiness", "happier"], "answer": "A", "analysis": "look 是系动词，后面用形容词 happy 作表语。" },
+        { "id": "g15", "type": "choice", "stem": "Please speak ___ so that everyone can hear you.", "options": ["clear", "clearly", "clearer", "clearest"], "answer": "B", "analysis": "修饰动词 speak 用副词 clearly。" }
+      ]
+    },
+    {
+      "id": "preposition",
+      "title": "常见介词",
+      "summary": "in、on、at、for、with、by 的常见搭配",
+      "content": [
+        "时间：at 用于具体时刻，on 用于具体某天，in 用于较长时段。例如：at 8 o'clock、on Monday、in summer。",
+        "地点：in 表示在……里面，on 表示在……表面，at 表示在某一点。例如：in the room、on the desk、at the door。",
+        "常见搭配：be good at 擅长、look for 寻找、be interested in 对……感兴趣、depend on 依赖。"
+      ],
+      "quiz": [
+        { "id": "g16", "type": "choice", "stem": "We will meet ___ 9 o'clock.", "options": ["in", "on", "at", "for"], "answer": "C", "analysis": "具体时刻前用 at：at 9 o'clock。" },
+        { "id": "g17", "type": "choice", "stem": "My birthday is ___ May.", "options": ["in", "on", "at", "for"], "answer": "A", "analysis": "月份前用 in：in May。" },
+        { "id": "g18", "type": "choice", "stem": "The book is ___ the table.", "options": ["in", "on", "at", "for"], "answer": "B", "analysis": "在桌子表面上用 on the table。" },
+        { "id": "g19", "type": "choice", "stem": "She is good ___ math.", "options": ["in", "on", "at", "for"], "answer": "C", "analysis": "固定搭配 be good at，表示“擅长”。" },
+        { "id": "g20", "type": "choice", "stem": "Thank you ___ your help.", "options": ["in", "on", "at", "for"], "answer": "D", "analysis": "固定搭配 thank you for，表示“因……而感谢”。" }
+      ]
+    },
+    {
+      "id": "modal",
+      "title": "情态动词",
+      "summary": "can、must、should、may 的用法",
+      "content": [
+        "can 表示能力或允许：I can swim.",
+        "must 表示必须或肯定推测：You must finish it today.",
+        "should 表示建议：You should rest more.",
+        "may 表示可能或许可：It may rain later."
+      ],
+      "quiz": [
+        { "id": "g21", "type": "choice", "stem": "You ___ smoke here. It is not allowed.", "options": ["can", "mustn't", "may", "need"], "answer": "B", "analysis": "“不允许吸烟”用 mustn't 表示禁止。" },
+        { "id": "g22", "type": "choice", "stem": "You look tired. You ___ take a rest.", "options": ["should", "would", "mustn't", "can't"], "answer": "A", "analysis": "表示建议用 should。" },
+        { "id": "g23", "type": "choice", "stem": "___ I open the window?", "options": ["May", "Mustn't", "Should", "Needn't"], "answer": "A", "analysis": "请求许可用 May I ...?" },
+        { "id": "g24", "type": "choice", "stem": "He ___ be at home, because the light is on.", "options": ["must", "can't", "mustn't", "shouldn't"], "answer": "A", "analysis": "“灯亮着”说明他很可能在家，用 must 表示肯定推测。" },
+        { "id": "g25", "type": "choice", "stem": "She ___ speak three languages when she was young.", "options": ["could", "must", "should", "may"], "answer": "A", "analysis": "过去的能力用 could，表示“过去能”。" }
+      ]
+    },
+    {
+      "id": "passive",
+      "title": "被动语态",
+      "summary": "be + 过去分词 的结构",
+      "content": [
+        "被动语态结构：be + 过去分词。例如：The book was written by him.",
+        "一般现在时被动：am/is/are + done；一般过去时被动：was/were + done。",
+        "当我们更关注动作的承受者，或不知道动作执行者时，用被动语态。"
+      ],
+      "quiz": [
+        { "id": "g26", "type": "choice", "stem": "English ___ in many countries.", "options": ["is spoken", "speaks", "spoke", "is speaking"], "answer": "A", "analysis": "English 是“被说”的对象，用被动 is spoken。" },
+        { "id": "g27", "type": "choice", "stem": "The bridge ___ in 2010.", "options": ["built", "was built", "is built", "builds"], "answer": "B", "analysis": "in 2010 表示过去，桥“被建造”，用一般过去时被动 was built。" },
+        { "id": "g28", "type": "choice", "stem": "These books ___ by students every year.", "options": ["are used", "is used", "were used", "use"], "answer": "A", "analysis": "主语 books 是复数，every year 表示一般现在时，用 are used。" },
+        { "id": "g29", "type": "choice", "stem": "The room ___ cleaned yesterday.", "options": ["is", "was", "were", "be"], "answer": "B", "analysis": "yesterday 表示过去，主语 The room 是单数，用 was cleaned。" },
+        { "id": "g30", "type": "choice", "stem": "Many trees ___ every spring.", "options": ["plant", "plants", "are planted", "planted"], "answer": "C", "analysis": "树是“被种植”，every spring 表示一般现在时，主语复数用 are planted。" }
+      ]
+    },
+    {
+      "id": "clause",
+      "title": "从句基础",
+      "summary": "定语从句与宾语从句",
+      "content": [
+        "定语从句修饰名词，常用关系词 who、which、that。例如：The man who helped me is kind.",
+        "宾语从句作动词或介词的宾语，用陈述语序。例如：I think that he is right.",
+        "注意宾语从句的时态呼应：主句过去时，从句通常也用过去时。"
+      ],
+      "quiz": [
+        { "id": "g31", "type": "choice", "stem": "The girl ___ is reading is my sister.", "options": ["who", "which", "where", "what"], "answer": "A", "analysis": "先行词 the girl 指人，用 who 引导定语从句。" },
+        { "id": "g32", "type": "choice", "stem": "I know ___ he will come tomorrow.", "options": ["that", "what", "who", "where"], "answer": "A", "analysis": "宾语从句不缺成分，用 that 引导。" },
+        { "id": "g33", "type": "choice", "stem": "This is the book ___ I bought yesterday.", "options": ["which", "who", "where", "when"], "answer": "A", "analysis": "先行词 the book 指物，用 which/that 引导。" },
+        { "id": "g34", "type": "choice", "stem": "She asked me where ___ .", "options": ["I lived", "did I live", "do I live", "am I living"], "answer": "A", "analysis": "宾语从句用陈述语序：where I lived。" },
+        { "id": "g35", "type": "choice", "stem": "The house ___ we live is very old.", "options": ["where", "which", "who", "what"], "answer": "A", "analysis": "先行词 the house 在从句中作地点状语，用 where 引导。" }
+      ]
+    },
+    {
+      "id": "nonfinite",
+      "title": "非谓语动词",
+      "summary": "动词不定式、动名词与分词",
+      "content": [
+        "不定式 to do 常表目的或将来：I want to learn English.",
+        "动名词 doing 常作主语或宾语：Reading is fun.",
+        "有些动词后接 doing，如 enjoy、finish、avoid；有些后接 to do，如 want、decide、hope。"
+      ],
+      "quiz": [
+        { "id": "g36", "type": "choice", "stem": "I want ___ a doctor in the future.", "options": ["to be", "being", "be", "am"], "answer": "A", "analysis": "want 后接不定式 to do：want to be。" },
+        { "id": "g37", "type": "choice", "stem": "She enjoys ___ music.", "options": ["listen to", "listening to", "to listen", "listened"], "answer": "B", "analysis": "enjoy 后接动名词：enjoy listening to。" },
+        { "id": "g38", "type": "choice", "stem": "___ is good for your health.", "options": ["Run", "Running", "Ran", "To run"], "answer": "B", "analysis": "动名词 Running 作主语，表示“跑步”这件事。" },
+        { "id": "g39", "type": "choice", "stem": "He decided ___ early.", "options": ["leave", "leaving", "to leave", "left"], "answer": "C", "analysis": "decide 后接不定式 to do：decide to leave。" },
+        { "id": "g40", "type": "choice", "stem": "Avoid ___ the same mistake again.", "options": ["make", "making", "to make", "made"], "answer": "B", "analysis": "avoid 后接动名词：avoid making。" }
+      ]
+    }
+  ]
+}

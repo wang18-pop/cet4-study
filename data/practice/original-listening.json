@@ -1,0 +1,137 @@
+{
+  "id": "original-listening",
+  "title": "原创听力理解",
+  "type": "listening",
+  "typeLabel": "听力",
+  "description": "仿四级听力题型：短篇新闻、长对话、短文理解。先用浏览器朗读原文作答，再对照解析。",
+  "suggestMinutes": 30,
+  "sections": [
+    {
+      "id": "news-1",
+      "name": "短篇新闻（一）",
+      "script": "A university in Hangzhou has launched a new campus recycling program to reduce plastic waste. Students who bring reusable cups to campus coffee shops will receive a ten percent discount. The program also places sorting bins in every dormitory building. University officials say the goal is to cut single-use plastic by half within one year. However, some students say the bins are too far from their rooms, which makes sorting inconvenient.",
+      "questions": [
+        {
+          "id": "l1",
+          "no": 1,
+          "type": "choice",
+          "stem": "这个校园回收项目的主要目的是什么？",
+          "options": ["提高咖啡价格", "减少塑料垃圾", "新建宿舍楼", "禁止使用可重复利用的杯子"],
+          "answer": "B",
+          "analysis": "新闻开头明确说“to reduce plastic waste”，即为了减少塑料垃圾。其余选项都与原文不符。"
+        },
+        {
+          "id": "l2",
+          "no": 2,
+          "type": "choice",
+          "stem": "部分学生提到的麻烦是什么？",
+          "options": ["折扣力度太小", "分类垃圾桶离房间太远", "咖啡店太拥挤", "项目费用太高"],
+          "answer": "B",
+          "analysis": "原文最后说“the bins are too far from their rooms”，对应“垃圾桶离房间太远”。"
+        }
+      ]
+    },
+    {
+      "id": "news-2",
+      "name": "短篇新闻（二）",
+      "script": "A city in Jiangsu has opened its first 24-hour public library. The library provides free Wi-Fi, quiet study rooms, and nearly ten thousand books. Since it opened last month, it has welcomed more than twenty thousand visitors. Many of them are young people preparing for exams. The library plans to add more study seats next year to meet growing demand.",
+      "questions": [
+        {
+          "id": "l3",
+          "no": 3,
+          "type": "choice",
+          "stem": "这座新图书馆的特别之处是什么？",
+          "options": ["只提供电子书", "只对儿童开放", "全天 24 小时开放", "按小时收费"],
+          "answer": "C",
+          "analysis": "原文开头提到“its first 24-hour public library”，即全天候开放。"
+        },
+        {
+          "id": "l4",
+          "no": 4,
+          "type": "choice",
+          "stem": "图书馆明年计划做什么？",
+          "options": ["增加自习座位", "周末闭馆", "减少藏书量", "对无线网收费"],
+          "answer": "A",
+          "analysis": "原文结尾说“add more study seats next year”，即增加自习座位。"
+        }
+      ]
+    },
+    {
+      "id": "conversation",
+      "name": "长对话",
+      "script": "M: Hi, I'd like to ask about your English courses.\nW: Sure. Are you preparing for an exam or improving general English?\nM: I'm preparing for the CET-4 in December. My listening is weak.\nW: Then I'd recommend our listening and reading course. It meets twice a week and focuses on exam skills.\nM: How much is it?\nW: It's 1,200 yuan for eight weeks. That includes all materials and two mock tests.\nM: That sounds reasonable. When does the next class start?\nW: Next Monday evening. There are still a few seats left.\nM: Great, I'll sign up.",
+      "questions": [
+        {
+          "id": "l5",
+          "no": 5,
+          "type": "choice",
+          "stem": "男士想提升哪方面的能力？",
+          "options": ["写作", "语法", "口语", "听力"],
+          "answer": "D",
+          "analysis": "男士说“My listening is weak”，说明他的听力比较薄弱。"
+        },
+        {
+          "id": "l6",
+          "no": 6,
+          "type": "choice",
+          "stem": "推荐的课程多久上一次？",
+          "options": ["每月一次", "每天一次", "每周两次", "每天三次"],
+          "answer": "C",
+          "analysis": "女士说“It meets twice a week”，即每周上两次课。"
+        },
+        {
+          "id": "l7",
+          "no": 7,
+          "type": "choice",
+          "stem": "1200 元费用包含什么？",
+          "options": ["资料和两次模考", "一对一辅导", "一次游学", "全部教材和餐饮"],
+          "answer": "A",
+          "analysis": "女士说“includes all materials and two mock tests”，包含资料和两次模拟考试。"
+        },
+        {
+          "id": "l8",
+          "no": 8,
+          "type": "choice",
+          "stem": "下一期课程什么时候开始？",
+          "options": ["本周五上午", "下周一晚上", "下个月", "下学期"],
+          "answer": "B",
+          "analysis": "女士回答“Next Monday evening”，即下周一晚上开课。"
+        }
+      ]
+    },
+    {
+      "id": "passage",
+      "name": "短文理解",
+      "script": "Experts say building a small daily habit is more effective than studying for hours once a week. If you spend twenty minutes on English every day, your brain has a chance to remember new words and patterns. A good habit has three parts: a clear trigger, a simple action, and a small reward. For example, you can review ten words after breakfast and treat yourself to a short break afterwards. Over time, small efforts add up to big progress. The key is consistency, not intensity.",
+      "questions": [
+        {
+          "id": "l9",
+          "no": 9,
+          "type": "choice",
+          "stem": "根据短文，什么比每周长时间学习更有效？",
+          "options": ["周末长期课程", "整本背诵", "每天的小习惯", "只在考前学习"],
+          "answer": "C",
+          "analysis": "短文开头指出“building a small daily habit is more effective”，即每天的小习惯更有效。"
+        },
+        {
+          "id": "l10",
+          "no": 10,
+          "type": "choice",
+          "stem": "好习惯包含哪三个部分？",
+          "options": ["目标、考试、分数", "老师、书本、笔记", "计划、日程、预算", "触发、简单行动、奖励"],
+          "answer": "D",
+          "analysis": "原文说“a clear trigger, a simple action, and a small reward”，对应三个部分。"
+        },
+        {
+          "id": "l11",
+          "no": 11,
+          "type": "choice",
+          "stem": "短文认为进步的关键是什么？",
+          "options": ["速度", "坚持", "天赋", "强度"],
+          "answer": "B",
+          "analysis": "结尾强调“The key is consistency, not intensity”，关键是坚持而非强度。"
+        }
+      ]
+    }
+  ]
+}

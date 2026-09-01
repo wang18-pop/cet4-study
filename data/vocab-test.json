@@ -1,0 +1,79 @@
+{
+  "levels": [
+    {
+      "id": "L1",
+      "name": "基础词汇",
+      "range": "约 0–1500",
+      "words": [
+        { "word": "apple", "phonetic": "/ˈæpl/", "meaning": "苹果" },
+        { "word": "book", "phonetic": "/bʊk/", "meaning": "书" },
+        { "word": "water", "phonetic": "/ˈwɔːtə/", "meaning": "水" },
+        { "word": "house", "phonetic": "/haʊs/", "meaning": "房子" },
+        { "word": "happy", "phonetic": "/ˈhæpi/", "meaning": "高兴的" },
+        { "word": "time", "phonetic": "/taɪm/", "meaning": "时间" },
+        { "word": "big", "phonetic": "/bɪɡ/", "meaning": "大的" },
+        { "word": "run", "phonetic": "/rʌn/", "meaning": "跑" }
+      ]
+    },
+    {
+      "id": "L2",
+      "name": "初中词汇",
+      "range": "约 1500–2500",
+      "words": [
+        { "word": "understand", "phonetic": "/ˌʌndəˈstænd/", "meaning": "理解" },
+        { "word": "important", "phonetic": "/ɪmˈpɔːtnt/", "meaning": "重要的" },
+        { "word": "different", "phonetic": "/ˈdɪfrənt/", "meaning": "不同的" },
+        { "word": "example", "phonetic": "/ɪɡˈzɑːmpl/", "meaning": "例子" },
+        { "word": "family", "phonetic": "/ˈfæməli/", "meaning": "家庭" },
+        { "word": "country", "phonetic": "/ˈkʌntri/", "meaning": "国家" },
+        { "word": "question", "phonetic": "/ˈkwestʃən/", "meaning": "问题" },
+        { "word": "answer", "phonetic": "/ˈɑːnsə/", "meaning": "回答" }
+      ]
+    },
+    {
+      "id": "L3",
+      "name": "高中词汇",
+      "range": "约 2500–3500",
+      "words": [
+        { "word": "environment", "phonetic": "/ɪnˈvaɪrənmənt/", "meaning": "环境" },
+        { "word": "opportunity", "phonetic": "/ˌɒpəˈtjuːnəti/", "meaning": "机会" },
+        { "word": "experience", "phonetic": "/ɪkˈspɪəriəns/", "meaning": "经验；经历" },
+        { "word": "education", "phonetic": "/ˌedʒuˈkeɪʃn/", "meaning": "教育" },
+        { "word": "government", "phonetic": "/ˈɡʌvənmənt/", "meaning": "政府" },
+        { "word": "development", "phonetic": "/dɪˈveləpmənt/", "meaning": "发展" },
+        { "word": "community", "phonetic": "/kəˈmjuːnəti/", "meaning": "社区" },
+        { "word": "culture", "phonetic": "/ˈkʌltʃə/", "meaning": "文化" }
+      ]
+    },
+    {
+      "id": "L4",
+      "name": "四级核心",
+      "range": "约 3500–4500",
+      "words": [
+        { "word": "significant", "phonetic": "/sɪɡˈnɪfɪkənt/", "meaning": "重要的；显著的" },
+        { "word": "approach", "phonetic": "/əˈprəʊtʃ/", "meaning": "方法；接近" },
+        { "word": "benefit", "phonetic": "/ˈbenɪfɪt/", "meaning": "好处；受益" },
+        { "word": "contribute", "phonetic": "/kənˈtrɪbjuːt/", "meaning": "贡献；促成" },
+        { "word": "efficient", "phonetic": "/ɪˈfɪʃnt/", "meaning": "高效的" },
+        { "word": "indicate", "phonetic": "/ˈɪndɪkeɪt/", "meaning": "表明；指示" },
+        { "word": "obtain", "phonetic": "/əbˈteɪn/", "meaning": "获得" },
+        { "word": "maintain", "phonetic": "/meɪnˈteɪn/", "meaning": "维持；坚持" }
+      ]
+    },
+    {
+      "id": "L5",
+      "name": "六级/进阶",
+      "range": "约 4500–6000",
+      "words": [
+        { "word": "phenomenon", "phonetic": "/fəˈnɒmɪnən/", "meaning": "现象" },
+        { "word": "controversy", "phonetic": "/ˈkɒntrəvɜːsi/", "meaning": "争议" },
+        { "word": "prominent", "phonetic": "/ˈprɒmɪnənt/", "meaning": "突出的；杰出的" },
+        { "word": "accumulate", "phonetic": "/əˈkjuːmjəleɪt/", "meaning": "积累" },
+        { "word": "facilitate", "phonetic": "/fəˈsɪlɪteɪt/", "meaning": "促进；使便利" },
+        { "word": "implement", "phonetic": "/ˈɪmplɪment/", "meaning": "实施；执行" },
+        { "word": "substantial", "phonetic": "/səbˈstænʃl/", "meaning": "大量的；实质的" },
+        { "word": "inevitable", "phonetic": "/ɪnˈevɪtəbl/", "meaning": "不可避免的" }
+      ]
+    }
+  ]
+}
