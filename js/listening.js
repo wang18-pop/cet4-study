@@ -171,6 +171,11 @@
       return;
     }
 
+    // 预加载语音列表（部分手机浏览器需要 voiceschanged 后才返回可用语音）
+    const loadVoices = () => { window.speechSynthesis.getVoices(); };
+    loadVoices();
+    window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
+
     let rate = 1;
     let currentScript = "";
     let speaking = false;

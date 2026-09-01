@@ -342,7 +342,7 @@
       }
       if (speakBtn) {
         // 说：朗读例句
-        speakBtn.addEventListener("click", () => speakWord(w.example || w.word));
+        speakBtn.addEventListener("click", () => speakText(w.example || w.word));
       }
       if (writeBtn && wordEl) {
         writeBtn.addEventListener("click", () => {
@@ -841,8 +841,34 @@
     });
   }
 
-  /* 用浏览器语音朗读英文单词（Windows 自带 TTS） */
-  function speakWord(text) {
+  /* 朗读单词：优先用 MP3 音频（兼容手机/微信浏览器），失败退回系统语音 */
+  function speakWord(word) {
+    const text = String(word || "").trim();
+    if (!text) return;
+    // 含空格视为句子，直接走系统语音
+    if (/\s/.test(text)) {
+      speakText(text);
+      return;
+    }
+    const url = "https://dict.youdao.com/dictvoice?audio=" + encodeURIComponent(text) + "&type=2";
+    let fellBack = false;
+    const fallback = () => {
+      if (!fellBack) {
+        fellBack = true;
+        speakText(text);
+      }
+    };
+    try {
+      const audio = new Audio(url);
+      audio.onerror = fallback;
+      audio.play().catch(fallback);
+    } catch (e) {
+      fallback();
+    }
+  }
+
+  /* 系统语音朗读（美式自然发音优先，兼容手机浏览器） */
+  function speakText(text) {
     if (!("speechSynthesis" in window)) return;
     try {
       window.speechSynthesis.cancel();
@@ -856,6 +882,13 @@
     } catch (e) {
       console.warn("语音朗读失败:", e);
     }
+  }
+
+  // 预加载语音列表：部分手机浏览器需要 voiceschanged 后才返回可用语音
+  if ("speechSynthesis" in window) {
+    const loadVoices = () => { window.speechSynthesis.getVoices(); };
+    loadVoices();
+    window.speechSynthesis.addEventListener("voiceschanged", loadVoices);
   }
 
   /* ================= 词汇量检测 ================= */
